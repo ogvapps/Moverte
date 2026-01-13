@@ -1,0 +1,7 @@
+{
+  "name": "Moverte - Expresión Corporal Interactiva",
+  "description": "Una aplicación educativa diseñada para alumnos de Primaria y ESO para explorar el mundo de la expresión corporal a través de contenidos teóricos exhaustivos y guías prácticas estáticas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
